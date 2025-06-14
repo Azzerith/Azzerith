@@ -86,10 +86,19 @@
 
 ---
 
-## 🌱 Current Focus
+<!-- ## 🌱 Current Focus
 - Learning Web Development
 - Improving my skills in Programming & Animation
-- Building Project
+- Building Project -->
+
+## 💭 Quote
+
+<div align="center">
+  
+  > *" Nobody can foretell the outcome, Each decision you make holds meaning only by affecting your next decision."*  
+  > — Erwin Smith
+> 
+</div>
 
 ---
 
