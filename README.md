@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## yuuhuu✨
 <!--
 **Azzerith/Azzerith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![a](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh2bWdseHd6YncyODV2MG9uYTR2cHJxNmxxNHlwaHN2aW10Z2dnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7d8ZzxqGw4Gpt0qfY/giphy.gif)
