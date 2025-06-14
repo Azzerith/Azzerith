@@ -1,12 +1,22 @@
+<div align="center">
+
 # Hello 👀
 
 ![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh2bWdseHd6YncyODV2MG9uYTR2cHJxNmxxNHlwaHN2aW10Z2dnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/b7d8ZzxqGw4Gpt0qfY/giphy.gif)
+<p align="center">
+    <a href="http://www.linkedin.com/in/muhammad-faiz-alfi-rahman"><img src="https://img.shields.io/badge/-Muhammad_Faiz-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="mailto:zikazabat@gmail.com"><img src="https://img.shields.io/badge/-zikazabat@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/faiz.alr_"><img src="https://img.shields.io/badge/-@faiz.alr_-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Azzerith&style=flat-square&color=blue" alt="Profile views" />
+  </p>
 
 ### I'm a Full-Stack Developer & Creative Designer
 
 🌐 Building digital experiences that blend form and function  
 🎨 Transforming ideas into pixel-perfect realities  
 💻 Writing clean, efficient code  
+
+</div>
 
 ---
 
